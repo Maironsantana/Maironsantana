@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 
 - 😄 Meus Pronomes são: Ele/Dele
 - 🌱 Atualmente estou aprendendo **ReactJS e NextJS**
-- 📫 Entre em contato comigo pelo E-mail: **maironnscmt@gmail.com**
 
 <div>
   <a href="https://github.com/Maironsantana">
