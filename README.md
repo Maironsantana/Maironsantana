@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 </div>
 -->
 
-##Olá, Me chamo Mairon Santana 👋
-###Sou um aspirante a desenvolvedor FrontEnd!
+## Olá, Me chamo Mairon Santana 👋
+### Sou um aspirante a desenvolvedor FrontEnd!
 
 - 😄 Meus Pronomes são: Ele/Dele
 - 🌱 Atualmente estou aprendendo **ReactJS e NextJS**
