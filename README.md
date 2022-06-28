@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
 -->
-<h1 align="center">Olá 👋, me chamo Mairon Santana</h1>
+<h2 align="center">Olá 👋, me chamo Mairon Santana</h2>
 <h3 align="center">Sou um aspirante a desenvolvedor FrontEnd!</h3>
 
 - 😄 Meus Pronomes são: Ele/Dele
