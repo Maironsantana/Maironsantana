@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, Me chamo Mairon Santana 👋
-### Sou um aspirante a desenvolvedor FrontEnd!
+### Sou um desenvolvedor FrontEnd!
 
-- 😄 Meus Pronomes são: Ele/Dele
-- 🌱 Atualmente estou aprendendo **ReactJS e NextJS**
+- Trabalho com ReactJS, NextJS, Styled Components e estou familiarizado com interface declarativa, como Tailwind ou ChakraUi
+- Atualmente estou aprendendo **NodeJS com Express**
 
 <div>
   <a href="https://github.com/Maironsantana">
