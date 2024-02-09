@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Sou um desenvolvedor FrontEnd!
 
 - Trabalho com ReactJS, NextJS, Styled Components e estou familiarizado com interface declarativa, como Tailwind ou ChakraUi
-- Atualmente estou aprendendo **NodeJS com Express**
+- Atualmente estou desenvolvendo backend também com **NodeJS e NestJS**
 
 <div>
   <a href="https://github.com/Maironsantana">
