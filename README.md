@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Sou um desenvolvedor Fullstack!
 
 - Trabalho à vários anos no Frontend com NextJS e com interface declarativa, (Tailwind, ChakraUi, etc.)
-- Em backend trabalhei principalmente com Node usando o framework Nest, entretanto já desenvolvi projetos com Python usando FastAPI e Django
+- No backend trabalhei principalmente com Node usando o framework Nest, entretanto já desenvolvi projetos com Python usando FastAPI e Django
 - Tenho vários anos de experiência trabalhando com microsserviços usando Docker e mais recentemente com Kubernetes
 
 <div>
@@ -41,16 +41,15 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maironsantana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <!-- <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" /> -->
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
   <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />        
   <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
-  <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
-          
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />        
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 
 <h3 align="left">Minhas redes sociais:</h3>
