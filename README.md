@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ### Sou um desenvolvedor Fullstack!
 
 - Trabalho à vários anos no Frontend com NextJS e com interface declarativa, (Tailwind, ChakraUi, etc.)
-- No backend trabalhei principalmente com Node usando o framework Nest, entretanto já desenvolvi projetos com Python usando FastAPI e Django
+- No backend trabalho principalmente com Node usando o framework Nest, entretanto já desenvolvi projetos com Python usando FastAPI e Django
 - Tenho vários anos de experiência trabalhando com microsserviços usando Docker e mais recentemente com Kubernetes
 
 <div>
